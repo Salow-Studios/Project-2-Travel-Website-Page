@@ -1,6 +1,6 @@
 # Travel Landing Page
 
-Welcome to the repository for the **Travel Landing Page** project! This project is a fully responsive landing page designed to promote a Travel website, built using HTML and CSS.
+Welcome to the repository for the **Travel Landing Page** project! This project is a fully responsive video background  landing page designed to promote a Travel website, built using HTML and CSS.
 
 ## Features
 
