@@ -11,14 +11,13 @@ Welcome to the repository for the **Travel Landing Page** project! This project 
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://salow-studios.github.io/Project-2-Travel-Website-Page/).
 
-Click to view Source Code on [Youtube]()
+Click to view Source Code on [Youtube](https://www.youtube.com/watch?v=hBQi4Rd5aDI)
 
 ## Screenshots
 
 ![Desktop View](1_desktop.png)
-![Mobile View](2_mobile.png)
 
 ## Getting Started
 
@@ -30,12 +29,12 @@ To run this project, you need a web browser and a code editor (e.g., VS Code).
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:Salow-Studios/Project-1-Game-Landing-Page.git
+    git clone git@github.com:Salow-Studios/Project-2-Travel-Website-Page.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Project-1-Game-Landing-Page
+    cd Project-2-Travel-Website-Page
     ```
 
 3. Open `index.html` in your web browser to view the landing page.
